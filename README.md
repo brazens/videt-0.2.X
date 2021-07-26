@@ -14,6 +14,9 @@ open collective : https://opencollective.com/webvidet
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 
+# what has changed?
+> **0.2.0** - Also added input(type=text) for angular and nav.
+
 
 # record
 **NOTE**
@@ -26,4 +29,3 @@ open collective : https://opencollective.com/webvidet
 > 07/25/2021 - insight angle class : add
 > 
 > 07/26/2021 - input[type=text] : add
-
