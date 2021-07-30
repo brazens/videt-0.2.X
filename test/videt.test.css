@@ -1,6 +1,6 @@
 /*
 
-* Videt CSS V0.2.0 - test
+* Videt CSS V0.2.1 - test
 * web - videt.xyz
 * docs - videt.xyz/docs
 * Copyright 2021, LEE minjun and videt
@@ -15,7 +15,7 @@ LICENSE
 developer : LEE minjun(https://github.com/devkr-potato)
 
 last modified
-> 07/26/2021
+> 07/30/2021
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 
 
@@ -631,6 +631,7 @@ NOTE
 /*
 NOTE
 > 07/24/2021 - block code : fix
+> 07/30/2021 - add pre : add
 */
 .docs{
     margin-top: 24px;
@@ -767,6 +768,11 @@ NOTE
     background-color: #f1fcff;
     color: #5a5a5a;
 }
+pre > code {
+  padding: 1rem 1.5rem;
+  display: block;
+  white-space: pre; }
+
 
 .docs .block-code .HTML:after{
     content: '\003E';
